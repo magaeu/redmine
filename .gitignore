@@ -16,7 +16,8 @@
 /log/*.log*
 /log/mongrel_debug
 /public/dispatch.*
-/public/plugin_assets
+# need this for heroku deployment
+# /public/plugin_assets
 /tmp/*
 /tmp/cache/*
 /tmp/pdf/*
@@ -29,6 +30,7 @@
 *.rbc
 
 /.bundle
-/Gemfile.lock
+# need the Gemfile.lock for heroku deployment
+# /Gemfile.lock
 /Gemfile.local
 

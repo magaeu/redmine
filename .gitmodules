@@ -27,4 +27,4 @@
 	url = https://github.com/nti-ufpe/latest-issues-redmine-plugin.git
 [submodule "plugins/scrum2b"]
 	path = plugins/scrum2b
-	url = git@github.com:magaeu/scrum2b.git
+	url = https://github.com/magaeu/scrum2b.git
